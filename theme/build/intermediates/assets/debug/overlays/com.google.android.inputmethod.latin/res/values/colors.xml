@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="key_text_color_holo">#ff37474f</color>
+    <color name="key_text_inactivated_color_holo">#b337474f</color>
+    <color name="key_hint_letter_color_holo">#b337474f</color>
+    <color name="spacebar_text_color_holo">#b337474f</color>
+    <color name="highlight_color_klp">#ff4db6ac</color>
+    <color name="typed_word_color_klp">#d937474f</color>
+    <color name="suggested_word_color_klp">#b337474f</color>
+    <color name="gesture_floating_preview_color_holo">#e6eceff1</color>
+    <color name="emoji_tab_page_indicator_background_holo">#ffe4e7e9</color>
+
+    <color name="key_background_lxx_light">#ffeceff1</color>
+    <color name="key_background_pressed_lxx_light">#2637474f</color>
+    <color name="suggested_word_background_selected_lxx_light">#2637474f</color>
+
+</resources>
